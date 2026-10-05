@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Personal files that ended up inside the project folder
+Downloads/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# R leftovers from the Quarto route
+.Rproj.user/
+.Rhistory
+Analysis/*.html
+
+# Local scratch
+*.bak
+*.bak[0-9]
+
+# Personal documents (CVs etc.)
+Claude outputs/
